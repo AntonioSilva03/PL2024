@@ -1,0 +1,76 @@
+{
+  "stock": [
+    {
+      "cod": "A1",
+      "nome": "Coca-Cola",
+      "quantidade": 8,
+      "preco": 0.8
+    },
+    {
+      "cod": "A2",
+      "nome": "Pepsi",
+      "quantidade": 10,
+      "preco": 0.9
+    },
+    {
+      "cod": "A23",
+      "nome": "água 0.5L",
+      "quantidade": 8,
+      "preco": 0.7
+    },
+    {
+      "cod": "B4",
+      "nome": "Batatas Fritas",
+      "quantidade": 12,
+      "preco": 1.5
+    },
+    {
+      "cod": "C5",
+      "nome": "Chocolate",
+      "quantidade": 30,
+      "preco": 2.0
+    },
+    {
+      "cod": "C6",
+      "nome": "Bolachas",
+      "quantidade": 7,
+      "preco": 2.5
+    },
+    {
+      "cod": "D7",
+      "nome": "Café",
+      "quantidade": 50,
+      "preco": 0.4
+    },
+    {
+      "cod": "D8",
+      "nome": "Chá",
+      "quantidade": 40,
+      "preco": 0.3
+    },
+    {
+      "cod": "E9",
+      "nome": "Sumo de Laranja",
+      "quantidade": 20,
+      "preco": 1.2
+    },
+    {
+      "cod": "E10",
+      "nome": "Sumo de Maçã",
+      "quantidade": 5,
+      "preco": 1.1
+    },
+    {
+      "cod": "A3",
+      "nome": "Leite",
+      "quantidade": 5,
+      "preco": 2.0
+    },
+    {
+      "cod": "A4",
+      "nome": "Kebab",
+      "quantidade": 11,
+      "preco": 6.0
+    }
+  ]
+}
